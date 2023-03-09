@@ -1,0 +1,334 @@
+/* other stylings  */
+.nav-item .nav-link{
+  padding: 0px 20px !important;
+}
+
+.btn-purple{
+  background-color: #a046d3 !important;
+}
+.btn-purple-gradient{
+  background: linear-gradient(to right, #3a91ff, #8844f6, #cb1ae8);
+}
+
+.mosh-top:hover .play-btn{
+  color: #8462d7 !important;
+  transition: 1s ease-out;
+}
+
+.course-card{
+  cursor: pointer;
+}
+.course-card:hover{
+  border: 1px solid #c03ada !important;
+  transition: 0.5s;
+}
+.course-card:hover .course-card-title {
+  color: #a046d3 !important;
+}
+
+.fw-thinner{
+  font-weight: lighter;
+}
+
+
+
+/* padding lists percentiles */
+/* top  */
+.pt-10p{
+  padding-top: 10px;
+}
+.pt-20p{
+  padding-top: 20px;
+}
+.pt-30p{
+  padding-top: 30px;
+}
+.pt-40p{
+  padding-top: 40px;
+}
+.pt-50p{
+  padding-top: 50px;
+}
+.pt-60p{
+  padding-top: 60px;
+}
+.pt-70p{
+  padding-top: 70px;
+}
+.pt-80p{
+  padding-top: 80px;
+}
+.pt-90p{
+  padding-top: 90px;
+}
+.pt-100p{
+  padding-top: 100px;
+}
+
+/* :vertical */
+.px-10p{
+  padding: 0px 10px;
+}
+.px-20p{
+  padding: 0px 20px;
+}
+.px-30p{
+  padding: 0px 30px;
+}
+.px-40p{
+  padding: 0px 40px;
+}
+.px-50p{
+  padding: 0px 50px;
+}
+/* margin list stylings  */
+/* top  */
+.mt-10p{
+  margin-top: 10px;
+}
+.mt-20p{
+  margin-top: 20px;
+}
+.mt-30p{
+  margin-top: 30px;
+}
+.mt-40p{
+  margin-top: 40px;
+}
+.mt-50p{
+  margin-top: 50px;
+}
+.mt-60p{
+  margin-top: 60px;
+}
+.mt-70p{
+  margin-top: 70px;
+}
+.mt-80p{
+  margin-top: 80px;
+}
+.mt-90p{
+  margin-top: 90px;
+}
+.mt-100p{
+  margin-top: 100px;
+}
+
+
+/* width list percentiles  */
+.w-10p{
+  width: 10px;
+}
+.w-20p{
+  width: 20px;
+}
+.w-30p{
+  width: 30px;
+}
+.w-40p{
+  width: 40px;
+}
+.w-50p{
+  width: 50px;
+}
+.w-100p{
+  width: 100px;
+}
+.w-150p{
+  width: 150px;
+}
+.w-200p{
+  width: 200px;
+}
+.w-250p{
+  width: 250px;
+}
+.w-300p{
+  width: 300px;
+}
+.w-350p{
+  width: 350px;
+}
+
+/* height styling lists */
+/* fixed height */
+.h-10p{
+  height: 10px;
+}
+.h-20p{
+  height: 20px;
+}
+.h-30p{
+  height: 30px;
+}
+.h-40p{
+  height: 40px;
+}
+.h-50p{
+  height: 50px;
+}
+.h-60p{
+  height: 60px;
+}
+.h-70p{
+  height: 70px;
+}
+.h-80p{
+  height: 80px;
+}
+.h-90p{
+  height: 90px;
+}
+.h-100p{
+  height: 100px;
+}
+.h-200p{
+  height: 200px;
+}
+.h-300p{
+  height: 300px;
+}
+.h-400p{
+  height: 400px;
+}
+.h-500p{
+  height: 500px;
+}
+
+/* min heights */
+.minH-10p{
+  min-height: 10px !important;
+}
+.minH-20p{
+  min-height: 20px !important;
+}
+.minH-30p{
+  min-height: 30px !important;
+}
+.minH-40p{
+  min-height: 40px !important;
+}
+.minH-50p{
+  min-height: 50px !important;
+}
+.minH-60p{
+  min-height: 60px !important;
+}
+.minH-70p{
+  min-height: 70px !important;
+}
+.minH-80p{
+  min-height: 80px !important;
+}
+.minH-90p{
+  min-height: 90px !important;
+}
+.minH-100p{
+  min-height: 100px !important;
+}
+.minH-200p{
+  min-height: 200px !important;
+}
+.minH-300p{
+  min-height: 300px !important;
+}
+.minH-400p{
+  min-height: 400px !important;
+}
+.minH-500p{
+  min-height: 500px !important;
+}
+.minH-1000p{
+  min-height: 1000px !important;
+}
+
+/* background stylings */
+.bg-skew{
+  width: 100%;
+  min-height: 600px;
+  transform: skewy(-4deg);
+  transform-origin: top left;
+}
+.bg-gradient-purple{
+  background: linear-gradient(to right, #8462d7, #d9538e, #f43b68);
+}
+.bg-gradient-dark-purple{
+  background: linear-gradient(to right, #31092a, #21062d, #100330);
+}
+.bg-gradient-purple-thick{
+  background: linear-gradient(to right, #52125d, #3f165a, #321858);
+}
+
+/* color stylings  */
+.text-purple{
+  color: #a046d3 !important;
+}
+.text-lightpurple{
+  color: #c03ada;
+}
+.text-blue{
+  color: #1e8bff;
+}
+.text-lightblue{
+  color: #6955ff;
+}
+/* hover colo  */
+.hover-lightpurple:hover{
+  color: #c03ada !important;
+  transition: 1s;
+}
+
+/* font size stylings */
+.fs-10p{
+  font-size: 10px;
+}
+.fs-20p{
+  font-size: 20px;
+}
+.fs-30p{
+  font-size: 30px;
+}
+.fs-40p{
+  font-size: 40px;
+}
+.fs-50p{
+  font-size: 50px;
+}
+.fs-60p{
+  font-size: 60px;
+}
+.fs-70p{
+  font-size: 70px;
+}
+.fs-80p{
+  font-size: 80px;
+}
+.fs-90p{
+  font-size: 90px;
+}
+.fs-100p{
+  font-size: 100px;
+}
+
+
+/* border radius  */
+.rounded-10p{
+  border-radius: 10px !important;
+}
+.rounded-20p{
+  border-radius: 20px !important;
+}
+.rounded-30p{
+  border-radius: 30px !important;
+}
+.rounded-40p{
+  border-radius: 40px !important;
+}
+.rounded-50p{
+  border-radius: 50px !important;
+}
+
+/* top  */
+.rounded-t-10p{
+  border-radius: 10px 10px 0px 0px;
+}
